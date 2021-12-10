@@ -13,6 +13,7 @@ cryptocurrency was 79743 tweets from November 29 / 2021 to December 2 / 2021.
 The second experiment was about cryptocurrency only and was 71719 tweets from December 3 / 2021 to December 5 / 2021.
 
 the dataset columns are:
+
 date , username, tweet, hashtags, nlikes, language, search, time
 
 
